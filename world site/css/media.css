@@ -1,0 +1,83 @@
+@media screen and (max-width:526px){
+    .bg_img nav ul{
+        width: 80%;
+        flex-wrap: wrap;
+    }
+    .bg_img nav img{
+        width: 30%;
+        height: 20px;
+        display: block;
+    }
+   
+    .bg_img nav ul li{
+        width: 25%;
+    }
+    .card{
+        width: 100%;
+        
+    }
+    .cards{
+        flex-wrap: wrap;
+    }
+    
+    .sec2 nav h3{
+        width: 20%;
+    }
+    .sec2 nav ul{
+        flex-wrap: wrap;
+        width: 80%;
+    }
+    .sec2 nav ul li{
+        width: 40%;
+    }
+    .sec2 .container, .sec4 .container{
+        flex-wrap: wrap;
+    }
+    
+    .sub_section,footer{
+        flex-wrap: wrap;
+    }
+    .sub_section_2,.sec3_cards{
+        flex-wrap: wrap;
+    }
+    .right_left,.right_right{
+        width: 100%;
+    }
+    .middel_card{
+        width: 100%;
+    }
+    .sub2_left , .sub2_right,.sec2_left,.sec2_right,.sec4_left,.sec4_right,.footer_right,.footer_middel,.footer_left{
+        width: 100%;
+    }
+    /*.sec4_card img{
+        height: 300px;
+
+    }*/
+    .sec4_card{
+        flex-wrap: wrap;
+        width: 100%;
+        margin: 2% 0;
+    }
+    .sec4_card img{
+        width: 100%;
+    }
+    .sec4_card_text{
+        padding: 0 3%;
+    }
+   
+    
+    .sec3_card{
+        width: 100%;
+        margin: 2% 0;
+      
+    }
+    .load_more{
+      
+        width: 20%;
+     
+    
+        
+    }
+
+    
+}
