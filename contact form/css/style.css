@@ -1,0 +1,113 @@
+*{
+    margin:0 ;
+    padding: 0;
+}
+
+.main{
+    background-color: aqua;
+
+}
+h1{
+    text-align: center;
+    color: white;
+   padding: 4%;
+   font-weight: 3%;
+   font-size: 40px;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+margin: 1% 7%;
+}
+
+.right{
+    float:right;
+    margin-top:30px;
+}
+.left{
+    float:left;
+    
+}
+
+.clear{
+    clear: both;
+}
+.right h2{
+    color:white;
+    width :400px;
+    font-weight: lighter;
+    font-size: 30px;
+   
+}
+.right h3{
+    font-size: 15px;
+    color: white;
+    
+}
+.right p{
+    font-size: 15px;
+    color:yellow;
+}
+.right ul{
+    color: white;
+    margin-top: 10%;
+ 
+    font-size: 20px;
+}
+.right ul li {
+    list-style: inside;
+}
+.left{
+    float:left;
+}
+
+.clear{
+    clear: both;
+}
+form{
+  width: 400px;
+}
+input{
+   width: 400px;
+   height: 50px; 
+   margin: 2% 0%;
+   box-sizing:border-box;
+   padding-left: 3%;
+   border: 0;
+   border-radius: 3px;
+    
+}
+.leftcol{
+    width:190px;
+   
+   float:left;
+  margin-right: 1px;
+
+
+}
+.phone{
+    width: 200px;
+    float: right;
+    
+
+
+}
+
+textarea{
+    width:400px;
+    height: 100px;
+    border: 0;
+    border-radius: 3px;
+    padding: 2%;
+    box-sizing: border-box;
+    resize: none;
+}
+    .send{
+        width:150px;
+        background-color: yellow;
+        color: black;
+        border: 0;
+        border-radius: 3px;
+      
+        float: right;
+    }
+    
