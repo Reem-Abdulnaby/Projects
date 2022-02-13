@@ -1,0 +1,108 @@
+@media screen and (max-width:600px){
+    header{
+        display: none;
+    }
+    .carousel-indicators{
+        flex-direction: row;
+       margin: 0 auto;
+       justify-content: center;
+      height: 50px;
+      padding: 10%;
+      ;
+    }
+   .card_above{
+      width: 100%;
+       
+      position: relative;
+      
+       right: 0;
+       margin-bottom: 10%;
+   }
+   .img-behinde img{
+       width: 100%;
+       margin-bottom: 10%;
+   }
+   .sec2_footer{
+       height: auto;
+   }
+   .footer_icon{
+       flex-wrap: wrap!important;
+       width: 100%;
+     
+   }
+   .footer_icon li{
+
+    width: 50%!important;
+    margin: 0 auto;
+   }
+   .services_cards {
+       flex-wrap: wrap;
+   }
+   .static_card{
+       width: 100%;
+   }
+   .small_nav ul{
+       width: 85%;
+       text-align: center;
+   }
+   .work_card{
+      width: 50%!important;
+   }
+   .small_card{
+       width: 80%!important;
+   }
+   .team_card{
+       width: 50%!important;
+   }
+   .our_pricing .nav-item .nav-link{
+      
+       margin-left: 30%;
+   }
+   .pricing_cards{
+       justify-content: center;
+       margin: 0 10%;
+   }
+   .pricing_card{
+       margin-bottom: 10%;
+   }
+   .latest_blog{
+       margin-top: 30%;
+   }
+   .blog_cards{
+       flex-wrap: wrap;
+   }
+   .blog_card{
+       width: 100%;
+       margin-bottom: 3%;
+   }
+   .man_side{
+       display: none;
+   }
+   
+  .popular{
+      margin-top: 10%;
+  }
+  .footer_card{
+      padding-bottom: 3%;
+  }
+  .blue_strip i{
+      display: none;
+  }
+  .blue_strip button{
+     margin-top: 10%;
+  }
+  .blue_strip {
+      margin-top: 5%;
+  }
+  .bg_img_footer{
+      margin-top: 150px;
+  }
+  .contact_info .emial{
+      justify-self:flex-end;
+  }
+  .input-group{
+
+    margin: 5% 0;
+  }
+  
+}
